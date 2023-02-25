@@ -1,0 +1,172 @@
+oxford5k dataset
+
+sift:nfeatures=0, contrastThreshold=0.04, edgeThreshold=5, sigma=1.6
+br=5 h=3
+Dataset total num:5062
+Features Path:./oxford5k/oxford5k_sift/all_souls_000002.jpg.sift,Num:502,Dim:128
+rank 0: oxford_000974.jpg
+rank 1: magdalen_000690.jpg
+rank 2: oxford_003313.jpg
+rank 3: oxford_001732.jpg
+rank 4: christ_church_001027.jpg
+rank 5: magdalen_000176.jpg
+rank 6: jesus_000045.jpg
+rank 7: christ_church_000805.jpg
+rank 8: oxford_001034.jpg
+rank 9: oxford_000992.jpg
+
+br=3 h=2
+Training complete in 3m 24s
+Features Path:./oxford5k/oxford5k_sift/all_souls_000002.jpg.sift,Num:502,Dim:128
+rank 0: oxford_000974.jpg
+rank 1: oxford_003313.jpg
+rank 2: jesus_000012.jpg
+rank 3: radcliffe_camera_000426.jpg
+rank 4: magdalen_000225.jpg
+rank 5: oxford_002652.jpg
+rank 6: new_000234.jpg
+rank 7: radcliffe_camera_000416.jpg
+rank 8: new_000640.jpg
+rank 9: oxford_001312.jpg
+
+
+nfeatures=500
+contrastThreshold=0.04
+edgeThreshold=10
+sigma=1.6
+br=3 h=2
+Training complete in 3m 17s
+Features Path:./oxford5k/oxford5k_sift/all_souls_000002.jpg.sift,Num:500,Dim:128
+rank 0: oxford_000974.jpg
+rank 1: jesus_000045.jpg
+rank 2: ashmolean_000339.jpg
+rank 3: oxford_000318.jpg
+rank 4: oxford_000605.jpg
+rank 5: pitt_rivers_000017.jpg
+rank 6: oxford_002905.jpg
+rank 7: oxford_002336.jpg
+rank 8: oxford_003498.jpg
+rank 9: balliol_000197.jpg
+
+
+Training complete in 3m 27s
+Features Path:./oxford5k/oxford5k_sift/all_souls_000002.jpg.sift,Num:500,Dim:128
+rank 0: oxford_000974.jpg
+rank 1: jesus_000045.jpg
+rank 2: magdalen_000874.jpg
+rank 3: hertford_000024.jpg
+rank 4: oxford_003145.jpg
+rank 5: magdalen_000690.jpg
+rank 6: trinity_000024.jpg
+rank 7: oxford_002473.jpg
+rank 8: oriel_000007.jpg
+rank 9: oxford_002905.jpg
+
+
+MY COMPUTER
+br=3 h=2
+Training complete in 3m 27s
+Features Path:./oxford5k/oxford5k_sift/all_souls_000002.jpg.sift,Num:500,Dim:128
+rank 0: oxford_000974.jpg
+rank 1: jesus_000045.jpg
+rank 2: magdalen_000874.jpg
+rank 3: hertford_000024.jpg
+rank 4: oxford_003145.jpg
+rank 5: magdalen_000690.jpg
+rank 6: trinity_000024.jpg
+rank 7: oxford_002473.jpg
+rank 8: oriel_000007.jpg
+rank 9: oxford_002905.jpg
+
+
+br=3 h=2
+(modified bof file name, last time it is 10_6)
+Training complete in 1m 13s
+Features Path:./oxford5k/oxford5k_sift/all_souls_000002.jpg.sift,Num:502,Dim:128
+rank 0: all_souls_000002.jpg
+rank 1: trinity_000235.jpg
+rank 2: oxford_001920.jpg
+rank 3: balliol_000187.jpg
+rank 4: oxford_000056.jpg
+rank 5: all_souls_000011.jpg
+rank 6: bodleian_000168.jpg
+rank 7: hertford_000074.jpg
+rank 8: christ_church_000653.jpg
+rank 9: oxford_001724.jpg
+
+br=3 h=3
+(this time worse than last time, at least the query image out though, a lot of blurry people image though)
+Training complete in 1m 47s
+Features Path:./oxford5k/oxford5k_sift/all_souls_000002.jpg.sift,Num:502,Dim:128
+rank 0: all_souls_000002.jpg
+rank 1: trinity_000137.jpg
+rank 2: radcliffe_camera_000065.jpg
+rank 3: trinity_000088.jpg
+rank 4: new_000380.jpg
+rank 5: trinity_000114.jpg
+rank 6: christ_church_000127.jpg
+rank 7: christ_church_000873.jpg
+rank 8: jesus_000053.jpg
+rank 9: oxford_002496.jpg
+
+
+br=5 h=3
+(much better, at least the first two are actually the building queried, and the others are mostly similar buildings, rank seven is a statue though)
+Training complete in 2m 48s
+Features Path:./oxford5k/oxford5k_sift/all_souls_000002.jpg.sift,Num:502,Dim:128
+rank 0: all_souls_000002.jpg
+rank 1: all_souls_000140.jpg
+rank 2: oriel_000015.jpg
+rank 3: christ_church_000190.jpg
+rank 4: bodleian_000168.jpg
+rank 5: christ_church_001020.jpg
+rank 6: magdalen_001027.jpg
+rank 7: ashmolean_000087.jpg
+rank 8: hertford_000056.jpg
+rank 9: magdalen_000709.jpg
+
+
+br=5 h=4
+(thank goodness, the first three image actually look very similar, the others are all buildings as well, and five out of 10 are the queried building)
+Training complete in 4m 34s
+Features Path:./oxford5k/oxford5k_sift/all_souls_000002.jpg.sift,Num:502,Dim:128
+rank 0: all_souls_000002.jpg
+rank 1: all_souls_000140.jpg
+rank 2: oxford_002503.jpg
+rank 3: bodleian_000168.jpg
+rank 4: oxford_002045.jpg
+rank 5: oxford_002070.jpg
+rank 6: oxford_002457.jpg
+rank 7: all_souls_000175.jpg
+rank 8: all_souls_000033.jpg
+rank 9: christ_church_000353.jpg
+
+br=8 h=4
+(the first seven images actually look alike now, it was probably the server's falt, the result on my PC is alright)
+Training complete in 9m 4s
+Features Path:./oxford5k/oxford5k_sift/all_souls_000002.jpg.sift,Num:502,Dim:128
+rank 0: all_souls_000002.jpg
+rank 1: all_souls_000140.jpg
+rank 2: oxford_002503.jpg
+rank 3: all_souls_000040.jpg
+rank 4: oxford_003056.jpg
+rank 5: magdalen_001027.jpg
+rank 6: oxford_000130.jpg
+rank 7: bodleian_000168.jpg
+rank 8: all_souls_000207.jpg
+rank 9: oxford_002457.jpg
+
+br=8 h=6
+(all_souls except one at last, thank heavens)
+Training complete in 189m 5s
+Features Path:./oxford5k/oxford5k_sift/all_souls_000002.jpg.sift,Num:502,Dim:128
+rank 0: all_souls_000002.jpg
+rank 1: oxford_002503.jpg
+rank 2: all_souls_000140.jpg
+rank 3: oxford_003056.jpg
+rank 4: all_souls_000091.jpg
+rank 5: all_souls_000150.jpg
+rank 6: all_souls_000006.jpg
+rank 7: all_souls_000040.jpg
+rank 8: bodleian_000168.jpg
+rank 9: oxford_000130.jpg
